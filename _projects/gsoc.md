@@ -3,6 +3,7 @@ title: "Google Summer of Code"
 excerpt: "A weekly notebook of my coding journey with GSoC 2023"
 tags: [comp_bio]
 collection: projects
+project_date: "May – August 2023"
 ---
 
 Hi! Welcome to my personal notebook on my GSoC 2023 journey. In this summer I worked with Dr. Augustin Luna and Dr. Bo Yuan on converting [CellBox](https://github.com/sanderlab/CellBox), a model predicting cell pertubation effects under various drug combinations, from Tensorflow to Pytorch. This notebook serves as my weekly goals record. For some more detailed comments I have during my coding period, please check out my [Google Docs personal notebook](https://docs.google.com/document/d/1fYkUNYuRcPHByWUYay6yUeTKtBuiwTGKJoztT0LajiA/edit?usp=sharing). This is my final Pytorch [implementation](https://github.com/Mustardburger/CellBox) of CellBox.
