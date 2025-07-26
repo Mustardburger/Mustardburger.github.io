@@ -1,0 +1,35 @@
+.projects-grid {
+display: flex;
+flex-wrap: wrap;
+gap: 20px;
+}
+
+.project-item {
+width: calc(50% - 20px); /* Two columns with gap */
+box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+border-radius: 5px;
+overflow: hidden;
+transition: transform 0.2s;
+}
+
+.project-item:hover {
+transform: scale(1.02);
+}
+
+.project-item img {
+width: 100%;
+height: auto;
+}
+
+.project-item-content {
+padding: 15px;
+}
+
+.project-item-title {
+font-size: 1.25em;
+margin: 0 0 10px;
+}
+
+.project-item-excerpt {
+margin: 0;
+}

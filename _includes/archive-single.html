@@ -12,6 +12,7 @@
   {% assign title = post.title %}
 {% endif %}
 
+
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
@@ -62,3 +63,21 @@
 
   </article>
 </div>
+
+<!--
+<div class="projects-grid">
+  {% for post in site.projects %}
+    {% if post.excerpt and post.image %}
+      <div class="project-item">
+        <a href="{{ base_path }}{{ post.url }}" rel="permalink">
+          <img src="{{ post.image }}" alt="{{ post.title }}">
+          <div class="project-item-content">
+            <h2 class="project-item-title">{{ post.title }}</h2>
+            <p class="project-item-excerpt">{{ post.excerpt | markdownify }}</p>
+          </div>
+        </a>
+      </div>
+    {% endif %}
+  {% endfor %}
+</div>
+-->
