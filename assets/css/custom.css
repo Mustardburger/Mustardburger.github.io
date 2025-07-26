@@ -1,0 +1,12 @@
+.project-listing h1 {
+margin-bottom: 0.5em;
+}
+
+.project-listing h1 + h1 {
+margin-top: 3em;
+}
+
+.project-listing .archive__item {
+margin-bottom: 0.5em;
+}
+  
