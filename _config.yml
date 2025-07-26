@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Phuc Nguyen"
   avatar           : "me.jpg"
-  bio              : "Undergraduate student researcher at the University of Cincinnati"
-  location         : "Cincinnati, OH"
+  bio              : "Graduate student at Washington University in St. Louis"
+  location         : "St. Louis, MO"
   employer         :
   pubmed           : 
   googlescholar    : 
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "PhucNgu50245926"
+  twitter          :
   vine             :
   weibo            :
   xing             :
