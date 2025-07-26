@@ -22,4 +22,4 @@ My current research interests:
 I owe my great gratitude to the advisors that have given me opportunities to work on amazing research projects. These include Dr. Miraldi, Dr. Weirauch, Dr. Huang, Dr. Luna, Dr. Prasath, Dr. Sotiras, and Drs. Kowalewski and Haney.
 \
 \
-Besides the academics, I'm an avid [chess](https://www.chess.com/member/mustardburger).
+Besides the academics, I'm an avid [chess player](https://www.chess.com/member/mustardburger).
