@@ -33,6 +33,9 @@
       {% else %}
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
+      {% if post.project_date %}
+        <p class="archive__item-excerpt"><em>{{ post.project_date }}</em></p>
+      {% endif %}
     </h2>
     
     {% if post.read_time %}

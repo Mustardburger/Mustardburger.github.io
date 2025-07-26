@@ -4,6 +4,7 @@ excerpt: >
     <p>Using deep learning to grade deep-learning-based automatic brain tumor segmentations, in the absence of ground truth annotations.</p>
 image: "/images/projects/qcresunet.jpg"
 collection: projects
+project_date: "May – December 2022"
 tags: [med_img]
 ---
 Publication: [QCResUNet: Joint Subject-Level and Voxel-Level Prediction of Segmentation Quality](https://link.springer.com/chapter/10.1007/978-3-031-43901-8_17)
@@ -14,4 +15,4 @@ My contributions to the project include generating a pipeline for generating gro
 
 I'd like to thank Dr. Sotiras for the opportunity to work on this project!
 
-![QCResUNet, final model](/mages/projects/qcresunet.jpg)
+![QCResUNet, final model](/images/projects/qcresunet.jpg)
