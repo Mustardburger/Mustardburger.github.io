@@ -1,7 +1,7 @@
 ---
 title: "Realistic generation of synthetic pediatric liver ultrasound images for liver disease classification"
 excerpt: >
-    <p>Using deep learning to grade deep-learning-based automatic brain tumor segmentations, in the absence of ground truth annotations.</p>
+    <p>Augmentation of biomedical images using deep generative models.</p>
 tags: [med_img]
 collection: projects
 project_date: "December 2021 – December 2022"
