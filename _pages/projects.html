@@ -7,14 +7,14 @@ author_profile: true
 
 {% include base_path %}
 
-<h2>Computational Biology Projects</h2>
+<h1>Computational Biology Projects</h1>
 {% for post in site.projects %}
   {% if post.tags contains "comp_bio" %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
 
-<h2>Medical Imaging Projects</h2>
+<h1>Medical Imaging Projects</h1>
 {% for post in site.projects %}
   {% if post.tags contains "med_img" %}
     {% include archive-single.html %}
